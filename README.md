@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ramin</h1>
 
-<img src="RAMIN-GIT.jfif" alt="image" />
+<img src="RAMIN-GIT.png" alt="image" />
 
 <p align="center">
   A student interested in Artificial Intelligence, Computer Science, and Software Development.
