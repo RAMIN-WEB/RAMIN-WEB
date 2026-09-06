@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ramin</h1>
 
-<img src=""/>
+<img src="RAMIN-GIT.jfif" alt="image" />
 
 <p align="center">
   A student interested in Artificial Intelligence, Computer Science, and Software Development.
@@ -31,4 +31,6 @@
 </ul>
 
 <h2>Tech Stack</h2>
+
+<img src="https://skillicons.dev/icons?i=py,html,css,bootstrap,js" alt="languages"/>
 
